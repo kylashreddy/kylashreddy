@@ -1,10 +1,20 @@
--  Hi, I’m @kylashreddy
--  I’m interested in teaching and techinal stuff
--  I’m currently pursuing BTECH in JAIN UNIVERSITY
--  I’m looking to collaborate on GREAT ORGANIZATION
--  reach me with my email adress: BUSIREDDYKYLASH17@GMAIL.COM
+<h1 align="left">Hi there! 👋</h1>
 
-<!---
-kylashreddy/kylashreddy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+###
+
+<h3 align="left">I'm Kylashreddy</h3>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/busireddy-kylash-reddy-185709291//" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/kylashreddy//==" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  
+  
+  </a>
+</div>
+
