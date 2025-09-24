@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kylashreddy/kylashreddy/main/banner-animated.gif" alt="Animated Banner" width="100%"/>
-</p>
 
 <!-- ✨ Typing Animated Intro -->
 <h1 align="center">
