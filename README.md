@@ -6,7 +6,6 @@
 
 <!-- Fun icons row -->
 <p align="center">
-  <img src="https://c.tenor.com/4m2zG5p0ZNsAAAAC/coding.gif" width="70" alt="coding animation"/>
   <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="70" alt="sparkle"/>
   <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="70" alt="rocket"/>
 </p>
