@@ -89,6 +89,45 @@
 
 ---
 
+## 🏅 HackerRank Achievements  
+
+<p align="center">
+  <!-- Animated Title -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=4000&pause=1000&color=2EC866&center=true&vCenter=true&width=700&lines=🔥+My+HackerRank+Journey;🏆+Badges+Earned;🚀+Problem+Solving+Milestones" alt="HackerRank Typing Animation"/>
+</p>
+
+<p align="center">
+  <a href="https://www.hackerrank.com/profile/juug23btech15099" target="_blank">
+    <img src="https://img.shields.io/badge/Problem%20Solving%20-Gold-yellow?style=for-the-badge&logo=hackerrank" alt="Problem Solving Badge"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/juug23btech15099" target="_blank">
+    <img src="https://img.shields.io/badge/Python-Silver-blue?style=for-the-badge&logo=python" alt="Python Badge"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/juug23btech15099" target="_blank">
+    <img src="https://img.shields.io/badge/C++-Bronze-orange?style=for-the-badge&logo=c%2B%2B" alt="C++ Badge"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="80" alt="Coding Animation"/>
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="80" alt="Badge Animation"/>
+  <img src="https://media.giphy.com/media/l3vR3z8j4V2S3VxU4/giphy.gif" width="80" alt="Trophy Animation"/>
+</p>
+
+---
+
+## 📊 HackerRank Stats  
+
+<p align="center">
+  <a href="https://www.hackerrank.com/profile/juug23btech15099" target="_blank">
+    <img src="https://img.shields.io/badge/Rank-Top%2010%25-success?style=for-the-badge&logo=hackerrank" alt="Rank"/>
+    <img src="https://img.shields.io/badge/Challenges%20Solved-250+-brightgreen?style=for-the-badge&logo=hackerrank" alt="Challenges Solved"/>
+    <img src="https://img.shields.io/badge/Certificates-5-blueviolet?style=for-the-badge&logo=hackerrank" alt="Certificates"/>
+  </a>
+</p>
+
+---
+
 ## 🔗 Connect With Me  
 
 <p align="center">
@@ -108,4 +147,4 @@
 
 ---
 
-💡 *“Code, Teach, and Keep Learning — because growth never stops.”*  
+💡 *“Code, Teach, and Keep Learning — because growth never stop*
